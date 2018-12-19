@@ -1,0 +1,14 @@
+//
+// Created by Yildirim Adiguzel on 2018-12-19.
+//
+
+#ifndef STRINGCALCULATOR_STRINGCALCULATORTEST_H
+#define STRINGCALCULATOR_STRINGCALCULATORTEST_H
+
+
+class StringCalculatorTest {
+
+};
+
+
+#endif //STRINGCALCULATOR_STRINGCALCULATORTEST_H
