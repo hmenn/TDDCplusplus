@@ -7,7 +7,7 @@
 #include "StringCalculator.h"
 
 
-TEST(it_should_zero_onn_empty_string, Criteria1) {
+TEST(it_should_zero_on_empty_string, Criteria1) {
     std::string text("");
 
     int result = StringCalculator::calculate(text);

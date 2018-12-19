@@ -9,7 +9,7 @@
 class StringCalculator {
 
 public:
-    static int calculate(std::__1::basic_string<char, std::__1::char_traits<char>, std::__1::allocator<char>> basic_string);
+    static int calculate(std::string text);
 };
 
 
